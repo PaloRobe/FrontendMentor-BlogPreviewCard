@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [FrontendMentorPage](https://your-solution-url.com)
-- Live Site URL: [GitHub Page Live](https://your-live-site-url.com)
+- Solution URL: [FrontendMentorPage](https://www.frontendmentor.io/solutions/blogpreviewcard---htmltailwindcss-BVO8AYFbTx)
+- Live Site URL: [GitHub Page Live](https://palorobe.github.io/FrontendMentor-BlogPreviewCard/)
 
 ## My process
 
